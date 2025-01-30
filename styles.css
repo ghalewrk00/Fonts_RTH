@@ -1,0 +1,70 @@
+@font-face {
+  font-family: 'MarkforHCA';
+  font-weight: 900;
+  font-style: normal;
+  src: url('https://ghalewrk00.github.io/Fonts_RTH/fonts/MarkforHCA-Black.otf') format('opentype');
+}
+@font-face {
+  font-family: 'MarkforHCA';
+  font-weight: 900;
+  font-style: italic;
+  src: url('https://ghalewrk00.github.io/Fonts_RTH/fonts/MarkforHCA-BlackItalic.otf') format('opentype');
+}
+@font-face {
+  font-family: 'MarkforHCA';
+  font-weight: bold;
+  font-style: normal;
+  src: url('https://ghalewrk00.github.io/Fonts_RTH/fonts/MarkforHCA-Bold.otf') format('opentype');
+}
+@font-face {
+  font-family: 'MarkforHCA';
+  font-weight: bold;
+  font-style: italic;
+  src: url('https://ghalewrk00.github.io/Fonts_RTH/fonts/MarkforHCA-BoldItalic.otf') format('opentype');
+}
+@font-face {
+  font-family: 'MarkforHCA';
+  font-weight: 400;
+  font-style: normal;
+  src: url('https://ghalewrk00.github.io/Fonts_RTH/fonts/MarkforHCA-Book.otf') format('opentype');
+}
+@font-face {
+  font-family: 'MarkforHCA';
+  font-weight: 400;
+  font-style: italic;
+  src: url('https://ghalewrk00.github.io/Fonts_RTH/fonts/MarkforHCA-BookItalic.otf') format('opentype');
+}
+@font-face {
+  font-family: 'MarkforHCA';
+  font-weight: 800;
+  font-style: normal;
+  src: url('https://ghalewrk00.github.io/Fonts_RTH/fonts/MarkforHCA-Heavy.otf') format('opentype');
+}
+@font-face {
+  font-family: 'MarkforHCA';
+  font-weight: 800;
+  font-style: italic;
+  src: url('https://ghalewrk00.github.io/Fonts_RTH/fonts/MarkforHCA-HeavyItalic.otf') format('opentype');
+}
+@font-face {
+  font-family: 'MarkforHCA';
+  font-weight: 400;
+  font-style: italic;
+  src: url('https://ghalewrk00.github.io/Fonts_RTH/fonts/MarkforHCA-Italic.otf') format('opentype');
+}
+@font-face {
+  font-family: 'MarkforHCA';
+  font-weight: 500;
+  font-style: normal;
+  src: url('https://ghalewrk00.github.io/Fonts_RTH/fonts/MarkforHCA-Medium.otf') format('opentype');
+}
+@font-face {
+  font-family: 'MarkforHCA';
+  font-weight: 500;
+  font-style: italic;
+  src: url('https://ghalewrk00.github.io/Fonts_RTH/fonts/MarkforHCA-MediumItalic.otf') format('opentype');
+}
+
+body {
+  font-family: 'MarkforHCA', sans-serif;
+}
